@@ -1,3 +1,4 @@
+MOHD YUSUF PARVEZ
 # 💫 About Me:
 ⚡ Intermediate Full Stack Developer with experience in Web 3.0, Blockchain, and AI technologies.<br> 🔭Proficient in front-end frameworks, back-end technologies, and smart contract development.<br>🤝 Familiar with decentralized identity, DeFi protocols, and integrating AI into web applications.<br>🌱 Basic knowledge of machine learning frameworks, cloud platforms, and DevOps practices.<br>💬 Actively staying updated with the latest advancements in technology.<br>👯 Motivated to contribute to innovative projects and collaborate with cross-functional teams.
 
